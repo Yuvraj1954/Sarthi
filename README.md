@@ -87,6 +87,7 @@ We are committed to making **Sarthi** the primary assistant for rural India. Our
 ## 👤 Developed By
 
 **Yuvraj**
+
 *Full-Stack Developer & Social Innovation Enthusiast*
 > **"Building technology that speaks the language of the people, not just the code of the machines."**
 
