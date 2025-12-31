@@ -15,7 +15,7 @@
 ---
 
 ## 📱 App Walkthrough
-| Splash & Onboarding | Voice Interface | Healthcare Info | Govt Schemes |
+| Interface | Healthcare Info | Govt Schemes | Settings |
 | :---: | :---: | :---: | :---: |
 | <img src="screenshots/screen1.png" width="200" /> | <img src="screenshots/screen2.png" width="200" /> | <img src="screenshots/screen3.png" width="200" /> | <img src="screenshots/screen4.png" width="200" /> |
 | *Bilingual Entry* | *Offline Recognition* | *Instant Health Tips* | *Scheme Details* |
