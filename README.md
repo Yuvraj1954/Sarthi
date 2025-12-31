@@ -34,16 +34,16 @@ In rural India, 300M+ users face:
 
 ## 🚀 Key Technical Features
 
-### 📡 1. Resilient Offline Architecture
+### 📡 Resilient Offline Architecture
 Unlike standard AI assistants that require an API call for every word, Sarthi uses:
 * **On-Device STT:** Local Speech-to-Text processing.
 * **Room Database:** A pre-loaded local "Knowledge Bank" of essential services.
 * **Zero-Latency Response:** Instant feedback for medical emergencies and scheme queries.
 
-### 🔄 2. Intelligent Cloud Synchronization
+### 🔄 Intelligent Cloud Synchronization
 Built using the **Android WorkManager API**, Sarthi intelligently queues user interactions. The moment a 2G/3G connection is detected, it background-syncs data without interrupting the user experience.
 
-### 🗣️ 3. Bilingual NLP Logic
+### 🗣️ Bilingual NLP Logic
 Engineered to understand **Hinglish** (Hindi + English mixed), ensuring the UI feels natural to users who don't speak formal "pure" languages.
 
 ---
