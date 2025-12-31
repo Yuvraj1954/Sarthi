@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="primary">#008080</color> <!-- Deep Teal -->
+    <color name="primary_dark">#004D40</color>
+    <color name="accent">#FF9933</color> <!-- Saffron -->
+    
+    <color name="cream_surface">#FFFDD0</color>
+    <color name="green_growth">#4CAF50</color>
+    
+    <color name="toggle_text_color">#1E293B</color>
+    <color name="chip_bg_color">#E0F2F1</color> <!-- Light Teal/Cream mix -->
+    <color name="chip_stroke_color">#80CBC4</color>
+    <color name="text_slate_dark">#1E293B</color>
+    <color name="text_slate_light">#64748B</color>
+    
+    <color name="lang_container_bg">#F0FDF4</color>
+    <color name="lang_selected_bg">#008080</color>
+    <color name="lang_unselected_text">#525252</color>
+    <color name="lang_selected_text">#FFFFFF</color>
+</resources>
