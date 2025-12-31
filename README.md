@@ -20,8 +20,6 @@
 | <img src="screenshots/screen1.png" width="200" /> | <img src="screenshots/screen2.png" width="200" /> | <img src="screenshots/screen3.png" width="200" /> | <img src="screenshots/screen4.png" width="200" /> |
 | *Bilingual Entry* | *Instant Health Tip* | *Scheme Details* | *Non Tech Friendly* |
 
-> **Note to Judges:** To view these images, create a folder named `screenshots` in your repo and name your images `screen1.png`, `screen2.png`, etc.
-
 ---
 
 ## 💡 The Problem: The "Triple Barrier"
@@ -63,3 +61,33 @@ Engineered to understand **Hinglish** (Hindi + English mixed), ensuring the UI f
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Yuvraj1954/Sarthi.git](https://github.com/Yuvraj1954/Sarthi.git)
+   ```
+   
+2. Open the project in Android Studio.
+
+3. Build the APK and install it on an Android device (API 21+).
+
+4. Important: Grant Microphone and Storage permissions for offline functionality.
+
+---
+
+## 🛣️ Roadmap & Future Vision
+
+We are committed to making **Sarthi** the primary assistant for rural India. Our development plan includes:
+
+- [x] **Phase 1:** Core Offline Speech-to-Text (STT) & Intent Mapping.
+- [x] **Phase 2:** Bilingual Support (Hindi + English) for Health & Schemes.
+- [x] **Phase 3:** Native Android Optimization for low-end hardware.
+- [ ] **Phase 4:** **Voice-to-Form Automation** (Users speak, Sarthi fills out Govt application forms).
+- [ ] **Phase 5:** **Hyper-Local Dialects** (Support for Bhojpuri, Haryanvi, and Maithili).
+- [ ] **Phase 6:** **On-Device LLMs** (Integrating lightweight models like Gemini Nano for complex reasoning without 4G).
+
+---
+
+## 👤 Developed By
+
+**Yuvraj**
+*Full-Stack Developer & Social Innovation Enthusiast*
+> **"Building technology that speaks the language of the people, not just the code of the machines."**
+
+---
