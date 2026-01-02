@@ -84,11 +84,22 @@ We are committed to making **Sarthi** the primary assistant for rural India. Our
 
 ---
 
-## 👤 Developed By
+<div align="center">
 
-**Yuvraj**
+## 🚀 Built By
 
-*Full-Stack Developer & Social Innovation Enthusiast*
-> **"Building technology that speaks the language of the people, not just the code of the machines."**
+<img src="profile.jpg" width="120" style="border-radius: 50%;" alt="Yuvraj"/>
 
----
+### Yuvraj Kumar
+*Full-Stack Web Architect | Social Impact Developer*
+
+[![GitHub](https://img.shields.io/badge/GitHub-@Yuvraj1954-181717?style=flat-square&logo=github)](https://github.com/Yuvraj1954)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-38bdf8?style=flat-square&logo=google-chrome&logoColor=white)](https://yuvraj1954.github.io/)
+[![Project](https://img.shields.io/badge/Live_Project-AwaazSetu-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://awaaz-setu-seven.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuvraj.k863888@gmail.com)
+
+<br/>
+
+> *"Bridging the gap between high-end technology and the last mile of humanity."*
+
+</div>
